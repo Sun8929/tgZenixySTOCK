@@ -1,1 +1,8 @@
-pyTelegramBotAPI==4.12.0
+pytelegrambotapi>=4.28.0
+yfinance>=0.2.58
+ta>=0.11.0
+scikit-learn>=1.6.1
+requests>=2.32.3
+pandas>=2.2.3
+numpy>=2.2.5
+joblib>=1.4.2
