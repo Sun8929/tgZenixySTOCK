@@ -17,7 +17,7 @@ if not API_KEY:
     print("Please set your Telegram bot API key in the Secrets tab.")
     exit(1)
 
-bot = telebot.TeleBot(8369596699:AAHl4ODWXpD2sAv74-7TU9h1mjhBYeB2EG4)
+bot = telebot.TeleBot("8369596699:AAHl4ODWXpD2sAv74-7TU9h1mjhBYeB2EG4")
 
 class StockScreener:
     def __init__(self):
