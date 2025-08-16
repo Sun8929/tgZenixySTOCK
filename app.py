@@ -878,3 +878,5 @@ def help_command(message):
     help_text += f"⚠️ **Disclaimer:** AI analysis only - always DYOR!"
     
     bot.send_message(message.chat.id, help_text, parse_mode='Markdown')
+
+bot.polling(none_stop=True)
