@@ -12,7 +12,7 @@ import warnings
 import threading
 warnings.filterwarnings('ignore')
 
-bot = telebot.TeleBot("8369596699:AAHl4ODWXpD2sAv74-7TU9h1mjhBYeB2EG4")
+bot = telebot.TeleBot("8356322629:AAErQaySC4WO_6sgsYMVf13T9FQUp3FU6RE")
 
 class StockScreener:
     def __init__(self):
